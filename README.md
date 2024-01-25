@@ -1,2 +1,1 @@
-# tsurugi
-@romajikaigi / https://tsurugi.cc
+# @romajikaigi / https://tsurugi.cc
