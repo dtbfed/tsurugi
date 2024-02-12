@@ -9,29 +9,31 @@
             "Saturation": 10
         },
         "Bezier": {
-            "LinearCurveX": 0.195,
-            "LinearCurveY": 0.195
+            "LinearCurveX": 0.350,
+            "LinearCurveY": 0.200
         },
         "Easing": {
-            "SmoothnessX": 110,
+            "SmoothnessX": 100,
             "SmoothnessY": 120,
             "SmoothingReplicatorX": 5,
             "SmoothingReplicatorY": 5,
             "SmoothingDividerX": 250,
-            "SmoothingDividerY": 350,
+            "SmoothingDividerY": 250,
             "Prediction": {
                 "Enabled": false,
                 "Mode": "Ideal",
                 "PredictionX": 5,
                 "PredictionY": 8
+            },
+            "Stabilizing": {
+                "Sensitivity": 0.5
             }
         },
         "Misc": {
             "AimbotUpdateTick": 600,
             "AimbotUpdateMS": 1000,
             "CameraToGunFOV": 85,
-            "FlickTime" : 0,
-            "KANKAN": false
+            "FlickTime" : 2
         },
         "FOV": {
             "FOVOffsetX": 5,
