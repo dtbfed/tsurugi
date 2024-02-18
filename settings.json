@@ -24,9 +24,6 @@
                 "Mode": "Ideal",
                 "PredictionX": 5,
                 "PredictionY": 8
-            },
-            "Stabilizing": {
-                "Sensitivity": 0.5
             }
         },
         "Misc": {
